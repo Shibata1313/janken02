@@ -1,4 +1,4 @@
-package main.java.oit.is.z1790.kaizai.janken02.controller;
+package oit.is.z1790.kaizai.janken02.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
