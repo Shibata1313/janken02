@@ -6,6 +6,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class Janken02ApplicationTests {
 
+  @GetMapping("/sample21")
+  public String sample21() {
+    return "sample21.html";
+  }
+
 	@Test
 	void contextLoads() {
 	}
